@@ -13,7 +13,7 @@
 <img alt="preview" align="center" src="https://raw.githubusercontent.com/apathyos/.github/refs/heads/master/assets/preview.png" />
 
 <p float="left" align="center">
-    <img alt="status panel" width="33%" src="https://raw.githubusercontent.com/apathyos/.github/refs/heads/master/assets/status_panel.png" />
-    <img alt="floating windows" width="33%" src="https://raw.githubusercontent.com/apathyos/.github/refs/heads/master/assets/floating_windows.png" />
-    <img alt="app launcher" width="33%" src="https://raw.githubusercontent.com/apathyos/.github/refs/heads/master/assets/app_launcher.png" />
+    <img alt="status panel" width="32%" src="https://raw.githubusercontent.com/apathyos/.github/refs/heads/master/assets/status_panel.png" />
+    <img alt="floating windows" width="32%" src="https://raw.githubusercontent.com/apathyos/.github/refs/heads/master/assets/floating_windows.png" />
+    <img alt="app launcher" width="32%" src="https://raw.githubusercontent.com/apathyos/.github/refs/heads/master/assets/app_launcher.png" />
 </p>
